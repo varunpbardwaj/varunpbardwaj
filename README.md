@@ -8,7 +8,7 @@
 <p> - 🔭 I’m currently working on ReactJS.</p>
 <p> - 👨‍💻 I’m currently developing Boto - A Chat bot for ReactJS Apps.</p>
 <p> - 📫 Ping me @ <a href="mailto:varunbardwajp@gmail.com">varunbardwajp@gmail.com</a></p>
-<p> - 🌐 <a href="https://varunbardwaj.me" target="_blank">varunbardwaj.me</a></p><br />
+<p> - 🌐 <a href="https://bardwaj.me" target="_blank">bardwaj.me</a></p><br />
 <h3 align="left">I know,</h3>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
 <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="" />
