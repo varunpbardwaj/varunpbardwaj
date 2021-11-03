@@ -24,7 +24,7 @@
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/v/vbocxjs?style=for-the-badge" alt="" />
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/dt/vbocxjs?style=for-the-badge" alt="" />
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/vbocxjs?style=for-the-badge" alt="" />
-</div><br />
+</div><br /><br />
 <p style="font-size: 15px">Get <a href="https://www.npmjs.com/package/vbocxjs" target="_blank">vbocxjs-react</a></p><br />
 <h5>- ReactJS 
 Snippets</h5>
