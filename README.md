@@ -34,7 +34,8 @@ Snippets</h5>
 <img style="margin-right: 5px; margin-top: 5px" src="https://vsmarketplacebadge.apphb.com/downloads-short/VarunBardwaj.reactjssnippets.svg?style=for-the-badge" alt="" />
 <img style="margin-right: 5px; margin-top: 5px" src="https://vsmarketplacebadge.apphb.com/installs-short/VarunBardwaj.reactjssnippets.svg?style=for-the-badge" alt="" />
 <img style="margin-right: 5px; margin-top: 5px" src="https://vsmarketplacebadge.apphb.com/trending-monthly/VarunBardwaj.reactjssnippets.svg?style=for-the-badge" alt="" />
-</div><br />
+</div>
+<p style="font-size: 15px">Get <a href="https://marketplace.visualstudio.com/items?itemName=VarunBardwaj.reactjssnippets" target="_blank">ReactJS Snippets</a></p><br />
 <h5>- ReactJS Snippets Chrome Extenstion</h5>
 <p style="font-size: 15px">A Chrome extension to generate ReactJS Snippets.</p>
 <p style="font-size: 15px">Get <a href="https://chrome.google.com/webstore/detail/reactjs-snippets/epoagfnkaebeghlfdcdhdgifidjdabif" target="_blank">ReactJS Snippets Chrome Extenstion</a></p><br />
@@ -79,4 +80,3 @@ Snippets</h5>
 <h3 align="left">Github Stats,</h3><br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunpbardwaj&langs_count=8" alt="">
 <br /><br />
-<p style="font-size: 15px">Get <a href="https://marketplace.visualstudio.com/items?itemName=VarunBardwaj.reactjssnippets" target="_blank">ReactJS Snippets</a></p><br />
