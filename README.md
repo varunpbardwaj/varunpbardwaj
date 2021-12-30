@@ -18,6 +18,16 @@
 <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Docker-2396ED?style=for-the-badge&logo=docker&logoColor=white" alt="" />
 </div><br />
 <h3 align="left">Recent Works,</h3><br />
+
+<h5>- Nucleus</h5>
+<p style="font-size: 15px">A ReactJS Library that can be used to fabricate any design.</p>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap">
+    <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/v/react-nucleus-js?style=for-the-badge" alt="" />
+    <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/dt/react-nucleus-js?style=for-the-badge" alt="" />
+    <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/react-nucleus-js?style=for-the-badge" alt="" />
+</div><br />
+<p style="font-size: 15px">Get <a href="https://www.npmjs.com/package/react-nucleus-js" target="_blank">Nucleus</a></p><br />
+
 <h5>- vbocxjs-react</h5>
 <p style="font-size: 15px">vbocxjs is a ReactJS library for creating banners, badges, toasts and more with zero dependencies. It uses inline styling by reducing the amount of look up time for the CSS engine.</p>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
