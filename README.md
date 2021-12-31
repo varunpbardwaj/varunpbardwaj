@@ -6,7 +6,7 @@
 </p><br />
 </p>
 <p> - 🔭 I’m currently working on ReactJS.</p>
-<p> - 👨‍💻 I’m currently developing <a target="_blank" href="https://demo.react-logger.bardwaj.me">React Logger</a>.</p>
+<!-- <p> - 👨‍💻 I’m currently developing <a target="_blank" href="https://demo.react-logger.bardwaj.me">React Logger</a>.</p> -->
 <p> - 📫 Ping me @ <a target="_blank" href="mailto:varunbardwajp@gmail.com">varunbardwajp@gmail.com</a></p>
 <p> - 🌐 <a href="https://bardwaj.me" target="_blank">bardwaj.me</a></p><br />
 <h3 align="left">I know,</h3>
@@ -18,6 +18,15 @@
 <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Docker-2396ED?style=for-the-badge&logo=docker&logoColor=white" alt="" />
 </div><br />
 <h3 align="left">Recent Works,</h3><br />
+
+<h5>- React Logger</h5>
+<p style="font-size: 15px">A ReactJS library to log the data.</p>
+<div style="display: flex; flex-direction: row; flex-wrap: wrap">
+    <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/v/react-logger-js?style=for-the-badge" alt="" />
+    <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/dt/react-logger-js?style=for-the-badge" alt="" />
+    <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/react-logger-js?style=for-the-badge" alt="" />
+</div><br />
+<p style="font-size: 15px">Get <a href="https://www.npmjs.com/package/react-logger-js" target="_blank">React Logger</a></p><br />
 
 <h5>- Nucleus</h5>
 <p style="font-size: 15px">A ReactJS Library that can be used to fabricate any design.</p>
