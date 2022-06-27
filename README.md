@@ -15,7 +15,7 @@
 <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=Typescript&logoColor=white" alt="" />
 <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=Javascript&logoColor=black" alt="" />
 <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Graphql-DD0391?style=for-the-badge&logo=graphql&logoColor=white" alt="" />
-<img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Docker-2396ED?style=for-the-badge&logo=docker&logoColor=white" alt="" />
+<img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/HTML-2396ED?style=for-the-badge&logo=html&logoColor=white" alt="" />
 </div><br />
 <h3 align="left">Recent Works,</h3><br />
 
