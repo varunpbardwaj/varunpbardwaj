@@ -14,10 +14,6 @@
 <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="" />
 <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Typescript-007ACC?style=for-the-badge&logo=Typescript&logoColor=white" alt="" />
 <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=Javascript&logoColor=black" alt="" />
-<img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/Graphql-DD0391?style=for-the-badge&logo=graphql&logoColor=white" alt="" />
-<img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/HTML-E9573D?style=for-the-badge&logo=html5&logoColor=white" alt="" />
-</div>
-<img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/CSS-1679C0?style=for-the-badge&logo=css3&logoColor=white" alt="" />
 </div>
 <br />
 <h3 align="left">Recent Works,</h3><br />
