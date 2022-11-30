@@ -25,7 +25,7 @@
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/dt/rc-tree-view?style=for-the-badge" alt="" />
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/rc-tree-view?style=for-the-badge" alt="" />
 </div><br />
-<p style="font-size: 15px">Get <a href="https://www.npmjs.com/package/rc-tree-view" target="_blank">RCTV</a></p><br />
+<p style="font-size: 15px">Get <a href="https://rctv-varunbardwaj.pages.dev/" target="_blank">RCTV</a></p><br />
 
 <h5>- React Logger</h5>
 <p style="font-size: 15px">A ReactJS library to log the data.</p>
@@ -34,7 +34,7 @@
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/dt/react-logger-js?style=for-the-badge" alt="" />
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/react-logger-js?style=for-the-badge" alt="" />
 </div><br />
-<p style="font-size: 15px">Get <a href="https://www.npmjs.com/package/react-logger-js" target="_blank">React Logger</a></p><br />
+<p style="font-size: 15px">Get <a href="https://react-logger-js-varunbardwaj.pages.dev/" target="_blank">React Logger</a></p><br />
 
 <h5>- Nucleus</h5>
 <p style="font-size: 15px">A ReactJS Library that can be used to fabricate any design.</p>
@@ -43,7 +43,7 @@
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/dt/react-nucleus-js?style=for-the-badge" alt="" />
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/react-nucleus-js?style=for-the-badge" alt="" />
 </div><br />
-<p style="font-size: 15px">Get <a href="https://www.npmjs.com/package/react-nucleus-js" target="_blank">Nucleus</a></p><br />
+<p style="font-size: 15px">Get <a href="https://nucleus-js.web.app/" target="_blank">Nucleus</a></p><br />
 
 <h5>- vbocxjs-react</h5>
 <p style="font-size: 15px">vbocxjs is a ReactJS library for creating banners, badges, toasts and more with zero dependencies. It uses inline styling by reducing the amount of look up time for the CSS engine.</p>
@@ -52,7 +52,7 @@
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/dt/vbocxjs?style=for-the-badge" alt="" />
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/vbocxjs?style=for-the-badge" alt="" />
 </div><br />
-<p style="font-size: 15px">Get <a href="https://www.npmjs.com/package/vbocxjs" target="_blank">vbocxjs-react</a></p><br />
+<p style="font-size: 15px">Get <a href="https://rc-vbocxjs-varunbardwaj.pages.dev/" target="_blank">vbocxjs-react</a></p><br />
 <h5>- ReactJS 
 Snippets</h5>
 <p style="font-size: 15px">This extension for Visual Studio Code adds snippets for ReactJS for JavaScript.</p>
@@ -84,7 +84,7 @@ Snippets</h5>
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/dt/vbocxjs.lib?style=for-the-badge" alt="" />
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/vbocxjs.lib?style=for-the-badge" alt="" />
 </div><br />
-<p style="font-size: 15px">Get <a href="https://www.npmjs.com/package/vbocxjs.lib" target="_blank">vbocxjs</a></p><br />
+<p style="font-size: 15px">Get <a href="https://vbocxjs-varunbardwaj.pages.dev/" target="_blank">vbocxjs</a></p><br />
 
 <h5>- glidejs</h5>
 <p style="font-size: 15px">A JavaScript Library to create alertboxes, promptboxes and confirmboxes.</p>
@@ -93,7 +93,7 @@ Snippets</h5>
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/dt/glidejs.lib?style=for-the-badge" alt="" />
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/glidejs.lib?style=for-the-badge" alt="" />
 </div><br />
-<p style="font-size: 15px">Get <a href="https://www.npmjs.com/package/glidejs.lib" target="_blank">glidejs</a></p><br />
+<p style="font-size: 15px">Get <a href="https://glidejs-varunbardwaj.pages.dev/" target="_blank">glidejs</a></p><br />
 
 <h5>- bluo</h5>
 <p style="font-size: 15px">An oh-my-zsh theme for z shell..</p>
@@ -102,7 +102,7 @@ Snippets</h5>
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/dt/bluo-zsh-theme?style=for-the-badge" alt="" />
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/bluo-zsh-theme?style=for-the-badge" alt="" />
 </div><br />
-<p style="font-size: 15px">Get <a href="https://bluo.bardwaj.me/" target="_blank">bluo</a></p><br />
+<p style="font-size: 15px">Get <a href="https://bluo-zsh-varunbardwaj.pages.dev/" target="_blank">bluo</a></p><br />
 
 <h3 align="left">Github Stats,</h3><br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunpbardwaj&langs_count=8" alt="">
