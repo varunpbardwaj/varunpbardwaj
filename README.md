@@ -18,15 +18,12 @@
 <br />
 <h3 align="left">Recent Works,</h3><br />
 
-
 <h5>- Reactify</h5>
 <p style="font-size: 15px">Design and Export React components with HTML and CSS knowledge.</p>
 <p style="font-size: 15px">Get <a href="https://beta-reactify.pages.dev/" target="_blank">REACTIFY</a></p><br />
-
 <h5>- vStack</h5>
 <p style="font-size: 15px">The best stack for React apps.</p>
 <p style="font-size: 15px">Get <a href="https://vstack.pages.dev/" target="_blank">VSTACK</a></p><br />
-
 <h5>- RCTV</h5>
 <p style="font-size: 15px">A tree view component presents a hierarchical list.</p>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
@@ -35,7 +32,6 @@
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/rc-tree-view?style=for-the-badge" alt="" />
 </div><br />
 <p style="font-size: 15px">Get <a href="https://rctv-varunbardwaj.pages.dev/" target="_blank">RCTV</a></p><br />
-
 <h5>- React Logger</h5>
 <p style="font-size: 15px">A ReactJS library to log the data.</p>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
@@ -44,7 +40,6 @@
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/react-logger-js?style=for-the-badge" alt="" />
 </div><br />
 <p style="font-size: 15px">Get <a href="https://react-logger-js-varunbardwaj.pages.dev/" target="_blank">React Logger</a></p><br />
-
 <h5>- Nucleus</h5>
 <p style="font-size: 15px">A ReactJS Library that can be used to fabricate any design.</p>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
@@ -53,7 +48,6 @@
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/react-nucleus-js?style=for-the-badge" alt="" />
 </div><br />
 <p style="font-size: 15px">Get <a href="https://nucleus-js.web.app/" target="_blank">Nucleus</a></p><br />
-
 <h5>- vbocxjs-react</h5>
 <p style="font-size: 15px">vbocxjs is a ReactJS library for creating banners, badges, toasts and more with zero dependencies. It uses inline styling by reducing the amount of look up time for the CSS engine.</p>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
@@ -85,7 +79,6 @@ Snippets</h5>
 </div>
 <p style="font-size: 15px">Get <a href="https://marketplace.visualstudio.com/items?itemName=VarunBardwaj.bloc" target="_blank">Bloc</a></p><br />
 <br />
-
 <h5>- vbocxjs</h5>
 <p style="font-size: 15px">A JavaScript Library to create alertboxes, promptboxes and confirmboxes..</p>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
@@ -94,7 +87,6 @@ Snippets</h5>
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/vbocxjs.lib?style=for-the-badge" alt="" />
 </div><br />
 <p style="font-size: 15px">Get <a href="https://vbocxjs-varunbardwaj.pages.dev/" target="_blank">vbocxjs</a></p><br />
-
 <h5>- glidejs</h5>
 <p style="font-size: 15px">A JavaScript Library to create alertboxes, promptboxes and confirmboxes.</p>
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
