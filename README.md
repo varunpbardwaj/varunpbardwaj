@@ -19,7 +19,6 @@
 <h3 align="left">Github Stats,</h3><br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunpbardwaj&langs_count=8" alt="">
 <br />
-<br />
 <h3 align="left">Recent Works,</h3><br />
 
 <h5>- Reactify</h5>
