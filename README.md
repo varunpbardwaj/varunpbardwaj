@@ -16,6 +16,10 @@
 <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/badge/JavaScript-EFD81D?style=for-the-badge&logo=Javascript&logoColor=black" alt="" />
 </div>
 <br />
+<h3 align="left">Github Stats,</h3><br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunpbardwaj&langs_count=8" alt="">
+<br />
+<br />
 <h3 align="left">Recent Works,</h3><br />
 
 <h5>- Reactify</h5>
@@ -104,7 +108,3 @@ Snippets</h5>
     <img style="margin-right: 5px; margin-top: 5px" src="https://img.shields.io/npm/l/bluo-zsh-theme?style=for-the-badge" alt="" />
 </div><br />
 <p style="font-size: 15px">Get <a href="https://bluo-zsh-varunbardwaj.pages.dev/" target="_blank">bluo</a></p><br />
-
-<h3 align="left">Github Stats,</h3><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varunpbardwaj&langs_count=8" alt="">
-<br /><br />
